@@ -1,0 +1,11 @@
+load res/Sunset.png sunset
+vertical-flip sunset sunset-vertical
+value-component sunset sunset-value-component
+brighten 10 sunset sunset-brighten-10
+brighten -5 sunset sunset-darken-5
+brighten -5 sunset sunset-darken-5
+blur sunset sunset-blur
+sharpen sunset sunset-sharpen
+sepiatone sunset sunset-sepiatone
+save saved3.ppm sunset
+
